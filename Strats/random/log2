@@ -1,0 +1,64 @@
+Random EMA150 | TP 0.300000 | SL 5.000000 | 1m | ETHUSDC
+
+Balance :  map[BTC:3.203e-05 ETH:0.03148 USDC:51.67512006 USDT:0.00125413]
+Cross buy | [2023-10-06 18:48:00.182708866 +0200 CEST m=+1.296108331] | price 1642.200000 | ema 1637.067095
+{1641.08 0.5 1642.18 0.58785}
+Place order BUY price 1642.180000 qnt 0.031467
+symbol=ETHUSDC&side=BUY&type=FILL_OR_KILL&quantity=0.0314673909437455&price=1642.18&timestamp=1696610880448
+id= C01__339019907544961025
+Err try placing sell order : Err /api/v3/order 400 {"msg":"Order does not exist.","code":-2013,"_extend":null} %!s(<nil>)
+Balance :  map[BTC:3.203e-05 ETH:0.06294 USDC:0.01213726 USDT:0.00125413]
+Cross buy | [2023-10-06 18:48:02.083355239 +0200 CEST m=+3.196754657] | price 1642.180000 | ema 1637.171159
+{1641.08 0.5 1642.18 0.55639}
+Place order BUY price 1642.180000 qnt 0.000007
+symbol=ETHUSDC&side=BUY&type=FILL_OR_KILL&quantity=0.000007390943745509018&price=1642.18&timestamp=1696610882352
+Err try placing sell order : Err /api/v3/order 400 {"msg":"Illegal characters found in parameter 'quantity'; legal range is '^([0-9]{1,20})(\\.[0-9]{1,20})?$'.","code":700008} %!s(<nil>)
+Balance :  map[BTC:3.203e-05 ETH:0.06294 USDC:0.01213726 USDT:0.00125413]
+Cross buy | [2023-10-06 18:48:03.815863385 +0200 CEST m=+4.929262761] | price 1642.180000 | ema 1637.171159
+{1641.08 0.5 1641.98 5.83338}
+Place order BUY price 1641.980000 qnt 0.000007
+symbol=ETHUSDC&side=BUY&type=FILL_OR_KILL&quantity=0.000007391843993227688&price=1641.98&timestamp=1696610884094
+Err try placing sell order : Err /api/v3/order 400 {"msg":"Illegal characters found in parameter 'quantity'; legal range is '^([0-9]{1,20})(\\.[0-9]{1,20})?$'.","code":700008} %!s(<nil>)
+Balance :  map[BTC:3.203e-05 ETH:0.06294 USDC:0.01213726 USDT:0.00125413]
+Cross buy | [2023-10-06 18:48:05.543239365 +0200 CEST m=+6.656638809] | price 1642.180000 | ema 1637.171159
+{1641.06 0.5 1641.93 0.5872}
+Place order BUY price 1641.930000 qnt 0.000007
+symbol=ETHUSDC&side=BUY&type=FILL_OR_KILL&quantity=0.000007392069089425249&price=1641.93&timestamp=1696610885810
+Err try placing sell order : Err /api/v3/order 400 {"msg":"Illegal characters found in parameter 'quantity'; legal range is '^([0-9]{1,20})(\\.[0-9]{1,20})?$'.","code":700008} %!s(<nil>)
+Balance :  map[BTC:3.203e-05 ETH:0.06294 USDC:0.01213726 USDT:0.00125413]
+Cross buy | [2023-10-06 18:48:07.245905513 +0200 CEST m=+8.359304890] | price 1642.180000 | ema 1637.171159
+{1641.06 0.5 1641.93 0.58719}
+Place order BUY price 1641.930000 qnt 0.000007
+symbol=ETHUSDC&side=BUY&type=FILL_OR_KILL&quantity=0.000007392069089425249&price=1641.93&timestamp=1696610887524
+Err try placing sell order : Err /api/v3/order 400 {"msg":"Illegal characters found in parameter 'quantity'; legal range is '^([0-9]{1,20})(\\.[0-9]{1,20})?$'.","code":700008} %!s(<nil>)
+Balance :  map[BTC:3.203e-05 ETH:0.06294 USDC:0.01213726 USDT:0.00125413]
+Cross buy | [2023-10-06 18:48:08.947901404 +0200 CEST m=+10.061300849] | price 1642.180000 | ema 1637.171159
+{1641.06 0.5 1641.94 0.89182}
+Place order BUY price 1641.940000 qnt 0.000007
+symbol=ETHUSDC&side=BUY&type=FILL_OR_KILL&quantity=0.000007392024069089004&price=1641.94&timestamp=1696610889228
+Err try placing sell order : Err /api/v3/order 400 {"msg":"Illegal characters found in parameter 'quantity'; legal range is '^([0-9]{1,20})(\\.[0-9]{1,20})?$'.","code":700008} %!s(<nil>)
+Balance :  map[BTC:3.203e-05 ETH:0.06294 USDC:0.01213726 USDT:0.00125413]
+Cross buy | [2023-10-06 18:48:10.666529425 +0200 CEST m=+11.779928870] | price 1642.180000 | ema 1637.171159
+{1641.06 0.5 1641.93 0.58719}
+Place order BUY price 1641.930000 qnt 0.000007
+symbol=ETHUSDC&side=BUY&type=FILL_OR_KILL&quantity=0.000007392069089425249&price=1641.93&timestamp=1696610890931
+Err try placing sell order : Err /api/v3/order 400 {"msg":"Illegal characters found in parameter 'quantity'; legal range is '^([0-9]{1,20})(\\.[0-9]{1,20})?$'.","code":700008} %!s(<nil>)
+Balance :  map[BTC:3.203e-05 ETH:0.06294 USDC:0.01213726 USDT:0.00125413]
+Cross buy | [2023-10-06 18:48:12.354639412 +0200 CEST m=+13.468038788] | price 1642.180000 | ema 1637.171159
+{1640.96 0.5 1641.84 0.59136}
+Place order BUY price 1641.840000 qnt 0.000007
+symbol=ETHUSDC&side=BUY&type=FILL_OR_KILL&quantity=0.00000739247429713005&price=1641.84&timestamp=1696610892630
+Err try placing sell order : Err /api/v3/order 400 {"msg":"price and quantity must be positive","code":400} %!s(<nil>)
+Balance :  map[BTC:3.203e-05 ETH:0.06294 USDC:0.01213726 USDT:0.00125413]
+Cross buy | [2023-10-06 18:48:14.098346016 +0200 CEST m=+15.211745439] | price 1642.180000 | ema 1637.171159
+{1640.91 0.5 1641.8 0.59136}
+Place order BUY price 1641.800000 qnt 0.000007
+symbol=ETHUSDC&side=BUY&type=FILL_OR_KILL&quantity=0.000007392654403703253&price=1641.8&timestamp=1696610894362
+Err try placing sell order : Err /api/v3/order 400 {"msg":"Illegal characters found in parameter 'quantity'; legal range is '^([0-9]{1,20})(\\.[0-9]{1,20})?$'.","code":700008} %!s(<nil>)
+Balance :  map[BTC:3.203e-05 ETH:0.06294 USDC:0.01213726 USDT:0.00125413]
+Cross buy | [2023-10-06 18:48:15.783264845 +0200 CEST m=+16.896664295] | price 1642.180000 | ema 1637.171159
+{1640.66 0.5 1641.71 122.21247}
+Place order BUY price 1641.710000 qnt 0.000007
+symbol=ETHUSDC&side=BUY&type=FILL_OR_KILL&quantity=0.000007393059675582167&price=1641.71&timestamp=1696610896059
+Err try placing sell order : Err /api/v3/order 400 {"msg":"Illegal characters found in parameter 'quantity'; legal range is '^([0-9]{1,20})(\\.[0-9]{1,20})?$'.","code":700008} %!s(<nil>)
+Balance :  map[BTC:3.203e-05 ETH:0.06294 USDC:0.01213726 USDT:0.00125413]
